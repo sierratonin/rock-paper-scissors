@@ -1,3 +1,3 @@
 # rock-paper-scissors
-rock paper scissors project from The Odin Project!
+Rock Paper Scissors project from The Odin Project's foundations course!
 ### Created by Sierra McKinley
